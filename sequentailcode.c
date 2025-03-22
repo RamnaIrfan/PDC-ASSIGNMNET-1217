@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define SIZE 500000
+#define SIZE 500git branch -M main
+git push -u origin main000
 #define RUNS 10        
 
 void merge(int arr[], int left, int mid, int right) {
